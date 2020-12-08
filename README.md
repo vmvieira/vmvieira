@@ -11,8 +11,8 @@
 
 ### Projects
 
-- <a href="https://vmvieira.github.io/Project-1---RGB-Stacker"> RGB Stacker </a> - Browser Game built with HTML5 Canvas & Vanilla Javascript.
-- <a href="https://cuteclick.vercel.app"> CuteClick </a> - Web Application built with React.JS, Bootstrap and the Unsplash API.
+- <a href="https://vmvieira.github.io/Project-1---RGB-Stacker" target="_blank"> RGB Stacker </a> - Browser Game built with HTML5 Canvas & Vanilla Javascript.
+- <a href="https://cuteclick.vercel.app" target="_blank"> CuteClick </a> - Web Application built with React.JS, Bootstrap and the Unsplash API.
 
 
 
