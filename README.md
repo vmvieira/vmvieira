@@ -1,6 +1,6 @@
 ### Hello, :globe_with_meridians: !
 
-<img src="https://i.ibb.co/d52jvBR/Vitor-Logo.png" alt="Vitor-Logo" border="0">
+<img src="https://ibb.co/hx6ZjZD" alt="Vitor-Logo" border="0">
 
 ### Find me 
 <!--
