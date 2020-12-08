@@ -2,6 +2,8 @@
 
 <a href="https://ibb.co/hx6ZjZD"><img src="https://i.ibb.co/ym9Y1YW/Vitor-Logo-2.png" alt="Vitor-Logo-2" border="0" /></a>
 
+---
+
 ### Find me 
 <!--
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -9,19 +11,21 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 -->
 
+---
+
 ### Projects
 
 - <a href="https://vmvieira.github.io/Project-1---RGB-Stacker" target="_blank"> RGB Stacker </a> - Browser Game built with HTML5 Canvas & Vanilla Javascript.
 - <a href="https://cuteclick.vercel.app" target="_blank"> CuteClick </a> - Web Application built with React.JS, Bootstrap and the Unsplash API.
 
-
-
+---
 
 ### GitHub Stats
 
 [![vmvieira's github stats](https://github-readme-stats.vercel.app/api?username=vmvieira)](https://github.com/vmvieira/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=default&layout=compact)
 
+---
 
 ### Languages and Frameworks I know and Study
 
@@ -38,6 +42,8 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  </p>
+
+---
 
 ### Coding
 
