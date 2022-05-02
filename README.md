@@ -1,8 +1,5 @@
 ### Hello, :globe_with_meridians: !
 
-<p align="center"><a href="https://ibb.co/d6nfDxm"><img src="https://i.ibb.co/NpwFKbT/Vitor-logo-3.png" alt="Vitor-logo-3" border="0" /></a></p>
-
-
 ### Find me 
 
 <a href = "mailto: vmvieira55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
