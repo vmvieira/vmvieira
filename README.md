@@ -10,6 +10,7 @@
 ---
 
 ### Projects
+- <a href="https://gfn-frontend-challenge-vitor-vieira.vercel.app/" target="_blank"> Geolocation View </a> - A simple geolocated store list to test react router v6 URL API and some typical React code challenges like rendering lists.
 - <a href="https://feed-get-web-pi.vercel.app/" target="_blank"> FeedGet </a> - Feedback component with an integrated backend server.
 - <a href="https://vmvieira.github.io/Project-1---RGB-Stacker" target="_blank"> RGB Stacker </a> - Browser Game built with HTML5 Canvas & Vanilla Javascript.
 - <a href="https://cuteclick.vercel.app" target="_blank"> CuteClick </a> - Web Application built with React.JS, Bootstrap and the Unsplash API.
