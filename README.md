@@ -16,12 +16,6 @@
 - <a href="https://cuteclick.vercel.app" target="_blank"> CuteClick </a> - Web Application built with React.JS, Bootstrap and the Unsplash API.
 - <a href="https://ta-na-lista.vercel.app" target="_blank"> Tá Na Lista </a> - Web Application for grocery management built with MERN.
 
----
-
-### GitHub Stats
-
-[![vmvieira's github stats](https://github-readme-stats.vercel.app/api?username=vmvieira)](https://github.com/vmvieira/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=default&layout=compact)
 
 ---
 
